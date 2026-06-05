@@ -39,6 +39,7 @@ AI Assistant ←→ MCP Client ←→ MCP Server ←→ External API/Database
 | [Fetch MCP](https://github.com/anthropics/mcp-fetch) | Fetch web pages and convert to markdown | ✅ |
 | [Firecrawl MCP](https://github.com/firecrawl/mcp-server) | Web scraping with JavaScript rendering | Freemium |
 | [Google Search MCP](https://apify.com/datascoutapi/google-search-mcp-server) | Google search results for AI agents | Apify credits |
+| [Haunt MCP Server](https://github.com/Darko893/haunt-mcp-server) | Web extraction for apps and AI agents | Freemium |
 | [Tavily MCP](https://github.com/tavily-ai/tavily-mcp) | AI-optimized web search | API key |
 
 ## Data & Research
