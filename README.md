@@ -79,6 +79,7 @@ AI Assistant ←→ MCP Client ←→ MCP Server ←→ External API/Database
 | [Lead Finder MCP](https://apify.com/knotless_cadence/mcp-lead-finder) | Find emails, tech stacks | Apify credits |
 | [Trend Detector MCP](https://apify.com/knotless_cadence/mcp-trend-detector) | Emerging tech trends | Apify credits |
 | [Memory MCP](https://github.com/anthropics/mcp-memory) | Persistent memory for AI | ✅ |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | Solana on-chain trust scoring for AI agents. Verify wallet reputation before x402 micropayments | Free |
 
 ## AI & ML
 
