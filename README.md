@@ -40,6 +40,7 @@ AI Assistant ←→ MCP Client ←→ MCP Server ←→ External API/Database
 | [Firecrawl MCP](https://github.com/firecrawl/mcp-server) | Web scraping with JavaScript rendering | Freemium |
 | [Google Search MCP](https://apify.com/datascoutapi/google-search-mcp-server) | Google search results for AI agents | Apify credits |
 | [Tavily MCP](https://github.com/tavily-ai/tavily-mcp) | AI-optimized web search | API key |
+| [Watched MCP](https://github.com/NG-PR0JECT/watched-mcp) | Website change detection — monitor pages for changes, get diffs, receive alerts | Freemium |
 
 ## Data & Research
 
