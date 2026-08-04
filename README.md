@@ -79,6 +79,7 @@ AI Assistant ←→ MCP Client ←→ MCP Server ←→ External API/Database
 | [Lead Finder MCP](https://apify.com/knotless_cadence/mcp-lead-finder) | Find emails, tech stacks | Apify credits |
 | [Trend Detector MCP](https://apify.com/knotless_cadence/mcp-trend-detector) | Emerging tech trends | Apify credits |
 | [Memory MCP](https://github.com/anthropics/mcp-memory) | Persistent memory for AI | ✅ |
+| [sovseal Memory](https://github.com/sovseal/mcp-server) | Local-first, zero-knowledge memory across Claude, Cursor & ChatGPT | ✅ |
 
 ## AI & ML
 
