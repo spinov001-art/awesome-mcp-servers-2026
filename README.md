@@ -74,6 +74,7 @@ AI Assistant ←→ MCP Client ←→ MCP Server ←→ External API/Database
 
 | Server | Description | Free? |
 |--------|-------------|-------|
+| [Process Street](https://github.com/process-street/process-street-mcp) | Workflows, tasks, runs, data sets, and operational records | Account required |
 | [Google Drive MCP](https://github.com/anthropics/mcp-gdrive) | Read Google Drive files | ✅ |
 | [Notion MCP](https://github.com/anthropics/mcp-notion) | Notion pages and databases | ✅ |
 | [Lead Finder MCP](https://apify.com/knotless_cadence/mcp-lead-finder) | Find emails, tech stacks | Apify credits |
