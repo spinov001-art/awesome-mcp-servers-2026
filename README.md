@@ -45,6 +45,7 @@ AI Assistant ←→ MCP Client ←→ MCP Server ←→ External API/Database
 
 | Server | Description | Free? |
 |--------|-------------|-------|
+| [Statsnet](https://github.com/usenetstate/statsnet-mcp) | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` |
 | [Research Tools MCP](https://apify.com/halilc4/research-tools-mcp) | Academic papers, citations, research | Apify credits |
 | [Company Researcher MCP](https://apify.com/knotless_cadence/mcp-company-researcher) | Domain intel, tech stacks, funding | Apify credits |
 | [PostgreSQL MCP](https://github.com/anthropics/mcp-postgres) | Query PostgreSQL databases | ✅ |
