@@ -64,6 +64,7 @@ AI Assistant ←→ MCP Client ←→ MCP Server ←→ External API/Database
 
 | Server | Description | Free? |
 |--------|-------------|-------|
+| [Communicate Developer Docs MCP](https://communicate.so/developers) | Public read-only developer guides, OpenAPI discovery, and support contacts via https://communicate.so/mcp; no workspace or customer data access | ✅ |
 | [GitHub MCP](https://github.com/anthropics/mcp-github) | Repos, issues, PRs, code search | ✅ |
 | [Git MCP](https://github.com/anthropics/mcp-git) | Local git operations | ✅ |
 | [Sentry MCP](https://github.com/getsentry/sentry-mcp) | Error tracking and monitoring | API key |
